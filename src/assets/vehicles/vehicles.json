@@ -1,0 +1,52 @@
+[
+  {
+    "vehicleId": 1,
+    "vehicleMake": "Toyota",
+    "vehicleModel": "Camry",
+    "vehicleYear": "2016",
+    "description": "White Toyota Camry of 2016 Model",
+    "price": 24999.99,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/ToyotaCamryWhite.jpg"
+  },
+  {
+    "vehicleId": 2,
+    "vehicleMake": "Tesla",
+    "vehicleModel": "Model 3",
+    "vehicleYear": "2020",
+    "description": "Red Tesla Model 3 of 2020 Model",
+    "price": 37900,
+    "starRating": 4.7,
+    "imageUrl": "assets/images/RedTeslaModel3.jpg"
+  },
+  {
+    "vehicleId": 5,
+    "vehicleMake": "BMW",
+    "vehicleModel": "i8",
+    "vehicleYear": "2018",
+    "description": "Blue BMW of 2018 Model",
+    "price": 74900.99,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/BlueBMWi8.jpg"
+  },
+  {
+    "vehicleId": 8,
+    "vehicleMake": "Honda",
+    "vehicleModel": "Accord",
+    "vehicleYear": "2010",
+    "description": "Gray Honda Accord of 2010 Model",
+    "price": 20899.99,
+    "starRating": 4.1,
+    "imageUrl": "assets/images/HondaAccordGray.jpg"
+  },
+  {
+    "vehicleId": 10,
+    "vehicleMake": "Nissan",
+    "vehicleModel": "Altima",
+    "vehicleYear": "2013",
+    "description": "Yellow Nissan Altima of 2013 Model",
+    "price": 26799.99,
+    "starRating": 4.0,
+    "imageUrl": "assets/images/YellowNissanAltima.jpg"
+  }
+]
